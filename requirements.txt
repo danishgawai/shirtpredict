@@ -3,7 +3,7 @@ wrapt==1.11.2
 tensorflow==2.0.0b1
 six==1.12.0
 scipy==1.4.1
-PyYAML==5.1.2
+PyYAML==5.4
 pytz==2019.3
 python-dateutil==2.8.0
 pyparsing==2.4.2

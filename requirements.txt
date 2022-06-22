@@ -12,7 +12,7 @@ protobuf==3.11.2
 pathlib==1.0.1
 Pillow==6.2.0
 pandas==0.25.1
-numpy==1.16.5
+numpy==1.22.0
 opencv-python==4.1.2.30
 Markdown==3.1.1
 MarkupSafe==1.1.1
